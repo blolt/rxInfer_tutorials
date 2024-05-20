@@ -1,2 +1,2 @@
 # rxInfer_tutorials
-A repo for following along to RxInfer tutorials in Julia
+A repository for completing basic RxInfer.jl tutorials and projects to further my learning with active inference, bayesian modelling, factor graphs, and Julia.
